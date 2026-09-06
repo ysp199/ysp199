@@ -84,10 +84,6 @@ Software Engineer specializing in Java backend development, microservices archit
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ysp199&layout=compact&count_private=true&v=3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages"/>
 </div>
 
-<div align="center" style="margin-top: 12px;">
-  <img src="https://streak-stats.demolab.com/?user=ysp199&v=3&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ### Contribution Activity
